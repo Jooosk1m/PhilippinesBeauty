@@ -1,1 +1,1 @@
-hehe
+This website allows me to appreciate the beauty of the Philippines while also helping me develop my skills in HTML, CSS, and JavaScript. It is my first time creating a project like this, so it may not be perfect, but I am proud that it gets the job done.
